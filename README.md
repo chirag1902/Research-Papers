@@ -15,6 +15,7 @@ This research paper focuses on the visualization and classification of phishing 
 
 Presented this research paper at the International Conference on Secure Cyber Computing and Communication (ICSCCC) 2023 at the National Institute of Technology, Jalandhar; published in IEEE Xplore in July 2023, ISBN: 979-8-3503-0071-0.
 https://ieeexplore.ieee.org/abstract/document/10176642 
+
 ## 2. Title: A Comprehensive Review of Instance-Based Machine Learning Classifiers
 
 ### Abstract:
@@ -27,3 +28,4 @@ This research paper provides a comprehensive review of instance-based machine le
 - Comparative analysis with KNN, logistic regression, and gradient boosting.
 - Promising results in terms of classification accuracy and computational efficiency.
 
+Presented this research paper at the First International Conference on Artificial Intelligence for the Internet of Things (AI4IOT) in 2023.
