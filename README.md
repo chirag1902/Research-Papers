@@ -1,2 +1,2 @@
 # Research-Papers
-A Description and List of my Research Papers
+A description and list of my Research Papers
