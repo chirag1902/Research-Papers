@@ -30,3 +30,4 @@ This research paper explores the challenges associated with existing classificat
 - Promising results in terms of classification accuracy and computational efficiency.
 
 Presented this research paper at the First International Conference on Artificial Intelligence for the Internet of Things (AI4IOT) in 2023.
+You can read this research paper [here](https://www.scitepress.org/Papers/2023/125098/125098.pdf).
